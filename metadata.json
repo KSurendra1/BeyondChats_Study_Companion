@@ -1,0 +1,5 @@
+{
+  "name": "BeyondChats Study Companion",
+  "description": "A web application that helps students revise their coursebooks using AI-powered quizzes and progress tracking, built with React and Gemini.",
+  "requestFramePermissions": []
+}
