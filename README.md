@@ -2,6 +2,8 @@
 
 A modern web application designed to help students revise their coursebooks and educational materials using AI-powered tools. This project transforms passive reading into an interactive and engaging learning experience.
 
+Live link : https://beyond-chats-study-companion.vercel.app/
+
 ## ✨ Core Features
 
 *   **📚 PDF-Based Learning**: Upload your course materials in PDF format and use them as the foundation for your study sessions.
